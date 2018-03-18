@@ -1,4 +1,4 @@
-alsar/wkhtmltopdf-windows
+alsar/wkhtmltopdf-windows-amd64
 ================
 
 This repository contains the Windows (MinGW-w64) 64-bit Binaries for Windows XP/2003 or later; bundles gcc DLLs.
